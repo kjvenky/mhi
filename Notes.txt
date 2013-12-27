@@ -1,0 +1,21 @@
+Whats MHI?
+MHI is a website that sums the social media data for the movies. Plans to use most latest data analysis and NLP techniques in doing so.
+
+Development Stack
++++++++++++++++++
+Python? PHP?
+XAMPP
+Bootstrap 3.0
+Bower - Frontend Dependency Manager
+JS libraries (??)
+
+Features
+++++++++++++++++++
+
+Test Movie : Dhoom3
+++++++++++++++++++
+
+Future Ideas:
++++++++++++++++++
+News summary?
+

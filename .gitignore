@@ -1,3 +1,6 @@
+# Other personal files to ignore
+MHI dev Notes.txt
+
 *.py[cod]
 
 # C extensions
